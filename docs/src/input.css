@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    .bw {
+        border: 1px dashed white
+    }
+    * 
+    {
+        border: 1px solid black;
+    }
+}
